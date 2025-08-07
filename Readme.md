@@ -69,7 +69,8 @@ Our vision is to establish a foundational layer for digital trust on the Aptos b
 
 ## Contract Details
 0xfd66bd448a5955467a5198ba2981a8d861f80ea73fed457840c3c1300f77c5fb
-![alt text](<Screenshot 2025-08-07 at 2.48.35 PM.png>)
+<img width="1440" height="781" alt="transaction" src="https://github.com/user-attachments/assets/26452dd6-058a-4bb5-b5ef-d4f1489b147c" />
+
 
 ---
 
